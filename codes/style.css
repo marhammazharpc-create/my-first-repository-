@@ -1,0 +1,38 @@
+p{
+    background-color: aqua;
+}
+.box{
+    background-color: blue;
+    height: 50vh;
+    /* height: 10vh;
+    width: 20vw;
+     */
+    min-width: 100px;
+    max-width: 600;
+    overflow: auto;
+    border:yellow 20px solid ;
+    border-top: black 20px double;
+
+}
+div:hover{
+    border: top
+   blue
+}
+div.new.box 
+{ 
+    border: 20px;
+    height: 50vh;
+    width: 900px;;
+padding: 2em;
+}
+ul > li{
+    background-color: brown;
+    height: 30px;
+    width: 70px;
+    color: black;
+    margin: 2px;
+}
+ul{
+    box-shadow: 2px 12px 12px 12px; color: crimson, 2px 12px 12px 112px blue ;
+    border-radius ;
+}
